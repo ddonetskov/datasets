@@ -1,0 +1,8 @@
+lightautoml[all]
+ipywidgets
+jupyterlab
+matplotlib
+numpy
+pandas
+seaborn
+
